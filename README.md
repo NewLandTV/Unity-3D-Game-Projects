@@ -4,6 +4,24 @@ Play my 3D Games with Unity Engine!
 
 유니티 엔진으로 3D 게임을 즐겨보세요!
 
+# **Videos(영상)**
+
+## 01. Dev Note p.332
+
+[![Development Note p.332](https://img.youtube.com/vi/XWbCN6NIzqw/0.jpg)](https://www.youtube.com/watch?v=XWbCN6NIzqw)
+
+## 02. Dev Note p.396
+
+[![Development Note p.396](https://img.youtube.com/vi/QOdckBSbY4g/0.jpg)](https://www.youtube.com/watch?v=QOdckBSbY4g)
+
+## 03. Dev Note p.398
+
+[![Development Note p.398](https://img.youtube.com/vi/BiYzerlqS5A/0.jpg)](https://www.youtube.com/watch?v=BiYzerlqS5A)
+
+## 04. Dev Note p.495
+
+[![Development Note p.495](https://img.youtube.com/vi/Pyh3GxPpTII/0.jpg)](https://www.youtube.com/watch?v=Pyh3GxPpTII)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
